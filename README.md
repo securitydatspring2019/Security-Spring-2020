@@ -2,7 +2,7 @@
 
 [A few hints to get a good start](https://docs.google.com/document/d/1sr6qDLNRDNeY2WQotPmDYEmk3joSgUBtZ6iazlsihoQ/edit?usp=sharing)
 
-[Read here, for general information about the course](https://docs.google.com/document/d/1bBUvc-6ThaqbPdQUgzi0A-PHJcUpztuZL-zEYqoFPZM/edit?usp=sharing)
+[General information about the course](https://docs.google.com/document/d/1bBUvc-6ThaqbPdQUgzi0A-PHJcUpztuZL-zEYqoFPZM/edit?usp=sharing)
 
 [Semester Schedule](https://docs.google.com/document/d/1XIMCHQQMTPw9D34YdFCa-5T8H9i9Grc8e1CkatHsuc4/edit?usp=sharing)
 (Eventually links in this document will be updated according to how lessons are planned for this semester)
