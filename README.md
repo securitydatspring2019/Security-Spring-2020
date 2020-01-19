@@ -1,1 +1,13 @@
-# Security-Spring-2020
+# Security Spring 2020
+
+[Read here, for general information about the course](https://docs.google.com/document/d/1bBUvc-6ThaqbPdQUgzi0A-PHJcUpztuZL-zEYqoFPZM/edit?usp=sharing)
+
+[Semester Schedule](https://docs.google.com/document/d/1XIMCHQQMTPw9D34YdFCa-5T8H9i9Grc8e1CkatHsuc4/edit?usp=sharing)
+(Eventually this document will be updated with links to learning goals, exercises, literature etc. for each week)
+
+[Groups and Projects (TBD)](#)
+
+[Exam questions (for the second part of the exam)](https://docs.google.com/document/d/1-Hpf98pKwWW0UwyDYsVAG4G0eSoIcbW4F0PLw_whXBY/edit#)
+
+[Hand-in links for semester reports (TBD)](#)
+
