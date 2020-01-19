@@ -7,7 +7,7 @@
 
 [Groups and Projects (TBD)](#)
 
-[Exam questions (for the second part of the exam)](https://docs.google.com/document/d/1-Hpf98pKwWW0UwyDYsVAG4G0eSoIcbW4F0PLw_whXBY/edit#)
+[Exam questions (for the second part of the exam)](https://docs.google.com/document/d/1qh2WISsJIcs3dwQcJJ_Wk9O0qYS5S6sV8YC22InAe7o/edit?usp=sharing)
 
 [Hand-in links for semester reports (TBD)](#)
 
