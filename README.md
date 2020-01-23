@@ -14,7 +14,7 @@
 
 - [Groups and Projects (TBD)](#)
 - [A few suggestions for the Semester Project](https://docs.google.com/document/d/1seHLKdXx7xsjyRn2aTJWMCMbxbGTrEbhOBuxV2_9QfQ/edit?usp=sharing)
--[Hand-in links for semester reports (TBD)](#)
+- [Hand-in links for semester reports (TBD)](#)
 
 ## Exam Related
 
