@@ -15,3 +15,4 @@
 
 [Hand-in links for semester reports (TBD)](#)
 
+Slack [Workspace](security-xvj6441.slack.com) for this course
