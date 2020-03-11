@@ -12,7 +12,7 @@
 
 ### Semester Project
 
-- [Groups and Projects (TBD)](#)
+- [Groups and Projects](https://docs.google.com/spreadsheets/d/1uMi9ZwBCVDFEmu5jtVr4AVbTOw8dZo2QJwDZRrrIobA/edit?usp=sharing)
 - [A few suggestions for the Semester Project](https://docs.google.com/document/d/1seHLKdXx7xsjyRn2aTJWMCMbxbGTrEbhOBuxV2_9QfQ/edit?usp=sharing)
 - [Hand-in links for semester reports (TBD)](#)
 
