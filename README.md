@@ -22,7 +22,8 @@
 
 ### Slack and Zoom
 
-Slack [Workspace](security-xvj6441.slack.com) for this course
+Slack [Workspace](https://app.slack.com/client/TSPAUFVT5/CT0B9AKB6) for this course
+
 
 - Zoom ID LAM: https://deic.zoom.us/my/larsmortensen
 - Zoom ID AKA: TBD
