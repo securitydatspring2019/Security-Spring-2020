@@ -14,7 +14,7 @@
 
 - [Groups and Projects](https://docs.google.com/spreadsheets/d/1uMi9ZwBCVDFEmu5jtVr4AVbTOw8dZo2QJwDZRrrIobA/edit?usp=sharing)
 - [A few suggestions for the Semester Project](https://docs.google.com/document/d/1seHLKdXx7xsjyRn2aTJWMCMbxbGTrEbhOBuxV2_9QfQ/edit?usp=sharing)
-- [What is an acceptable project, and about the report](https://docs.google.com/document/d/1zC4fTTShgT-N2Je9rwIWZ_p4qx9upsNg91LuJBCgaRQ/edit?usp=sharing)
+- :new: [What is an acceptable project, and about the report](https://docs.google.com/document/d/1zC4fTTShgT-N2Je9rwIWZ_p4qx9upsNg91LuJBCgaRQ/edit?usp=sharing)
 - [Hand-in links for semester reports (TBD)](#)
 
 ## Exam Related
